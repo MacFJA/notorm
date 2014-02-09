@@ -11,6 +11,6 @@
 		}
 	],
 	"autoload": {
-		"files": ["NotORM.php"]
+		"psr-0": {"NotORM\\": ["src/", "tests/"]}
 	}
 }
